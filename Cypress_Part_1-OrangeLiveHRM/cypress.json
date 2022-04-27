@@ -1,0 +1,17 @@
+{
+
+    "watchForFileChanges": false,
+    "responseTimeout": 60000,
+    "screenshotOnRunFailure": false,
+    "video": false,
+    "baseUrl": "https://opensource-demo.orangehrmlive.com/",
+    "chromeWebSecurity": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "code":false,
+        "overwrite":true,
+        "reportFilename": "Training_Part_1",
+        "autoOpen":true
+    }
+
+}

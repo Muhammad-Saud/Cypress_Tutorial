@@ -1,0 +1,20 @@
+****Commands*****
+
+CMD -->
+C:\windows\system32>cd C:\Users\msaud\Documents\10pu-cypress
+C:\Users\msaud\Documents\10pu-cypress>code .
+
+Cypress Terminal -->
+--npm init -y
+--npm install cypress
+--npm@8.7.0 - upgrade cypress
+--npm install mochawesome
+--npx cypress open
+
+--npx cypress run // Through Terminal
+--npx cypress run --browser=chrome --headless // For not showing the execution
+
+Documentation -->
+
+Assertions:
+Assertions are the validation steps that determine whether the specified step of the automated test case succeeded or not.
